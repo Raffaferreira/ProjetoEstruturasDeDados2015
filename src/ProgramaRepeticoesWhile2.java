@@ -6,8 +6,6 @@ public class ProgramaRepeticoesWhile2 {
 	 */
 	public static void main(String[] args) {
 		
-		
-		
 		int vezez = 10;
 		while ( vezez > 0)
 		{
@@ -21,8 +19,6 @@ public class ProgramaRepeticoesWhile2 {
 			System.out.println("Damasco");
 			System.out.println("Morango\n");
 		}
-		
-		
 		
 		int contX = 10;
 		int contY = 2;
@@ -41,11 +37,13 @@ public class ProgramaRepeticoesWhile2 {
 				{
 					break R2;
 				}
+				System.out.println("Laço 2 - "+ contY);
 			}
-			System.out.println("Laço 2 - "+ contY);
-			
+			contY = 10;	
 		}
-
+		
+		
+		
 	}
 
 }
