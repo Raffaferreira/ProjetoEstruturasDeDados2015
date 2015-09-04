@@ -1,5 +1,4 @@
 #Projeto Estruturas de Dados 2015
 
-Arquivos nas seguintes pastas, cont�m conceitos b�sicos relacionados a Estruturas de Dados
-no qual meu professor est� passando este semestre.
+Cada pasta contém um conceito passado pelo nosso professor desta máteria, contém conceitos básicos pois é ínicio de semestre, nada "por enquanto relacionado a pilha, fila, lista" por enquanto. Estarei atualizando o repositorio assim que o conteúdo estiver sendo passado.
 Segue as pastas
