@@ -65,7 +65,7 @@ public class Lista {
 		return -1;
 	}
 	
-	public void Excluir(Object conteudo)
+	public void Excluir(String conteudo)
 	{
 		if(getTamanho() == 0)
 		{
